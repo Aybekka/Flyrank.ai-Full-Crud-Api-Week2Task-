@@ -1,0 +1,3 @@
+node_modules/
+ai-version/node_modules/
+.env.DS_Store
